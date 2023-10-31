@@ -7,7 +7,8 @@ This project is a web page that provides a user-friendly IP Address Tracker disp
 
 
 ## Demo
+You can see a list of public ips to test the project [here](https://ipinfo.io/ips).
 
-You can see a live demo of this project [here](https://credcard-dts.vercel.app/).
+A live demo of this project is available  [here](https://credcard-dts.vercel.app/).
 
 
