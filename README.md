@@ -1,6 +1,6 @@
-# Credit Card Form and Interactive Card Display
+# IP Address Tracker
 
-This project is a web page that provides a user-friendly form for collecting credit card information and displays an interactive credit card component for real-time data updates.
+This project is a web page that provides a user-friendly IP Address Tracker displays an interactive map component for real-time data updates.
 
 ![Credit Card Form Demo](desktop-design.jpg)
 
