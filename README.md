@@ -23,6 +23,6 @@ This is necessary because I didn't want to use the paid plan for the API. After 
 ## Demo
 You can see a list of public ips to test the project [here](https://ipinfo.io/ips).
 
-A live demo of this project is available  [here](https://credcard-dts.vercel.app/).
+A live demo of this project is available  [here](https://apitrack.vercel.app/).
 
 
