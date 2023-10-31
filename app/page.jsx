@@ -23,7 +23,7 @@ export default function Home() {
   const fetchData = async () => {
     try {
       const response = await axios.get(`http://ip-api.com/json/${ip}`);
-      console.log(response.data);
+      
       setIp(response.data.query);
       setCity(response.data.city);
       setCode(response.data.region);
